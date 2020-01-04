@@ -4,40 +4,46 @@ title: "Encuadre"
 
 ## Fines del aprendizaje o formación
 
-Identificar las características y propiedades de los materiales para su aplicación adecuada en los diferentes procesos industriales para la obtención de productos de calidad con responsabilidad social y protección del medio ambiente.
+Distinguir los procesos de fabricación, ensamble y acabados de los diversos materiales y piezas empleadas en máquinas, equipos y sistemas mecatrónicos para garantizar su calidad, eficiencia, productibilidad y rentabilidad.
 
 ## Contenido temático
 
-UNIDAD I. Clasificación de los materiales.
+UNIDAD I. Proceso de obtención del hierro y el acero.
+
+1. Proceso tecnológico del hierro de primera fusión.
+2. Funcionamiento del proceso tecnológico y otros productos obtenidos.
+3. Afino del acero.
+4. Procesos tecnológicos para la obtención del acero, hornos BOF, eléctricos, convertidores Bessemer y Thomas.
+
+UNIDAD II. Tratamiento térmico del acero.
 
 1. Generalidades.
-2. Materiales puros.
-3. Aleaciones ferrosas y no ferrosas.
-4. Materiales orgánicos y no orgánicos.
-5. Materiales cerámicos.
-  
-UNIDAD II. Estructura de los materiales.
+2. Clasificación de los tratamientos térmicos.
+3. Recocido.
+4. Temple.
+5. Revenido.
+6. Tratamientos termoquímicos.
 
-1. Estructura cristalina y su consecuencia en las propiedades.
-2. Materiales puros.
-3. Aleaciones ferrosas y no ferrosas.
-4. Materiales orgánicos y no orgánicos.
-5. Materiales cerámicos.
+UNIDAD III. Proceso de cambio de forma.
 
-UNIDAD III. Propiedades de los materiales.
+1. Fundición, colado al alto vacío, centrífuga y precisión.
+2. Formado mecánico, forjado, prensado, estirado, cizallado, doblado, extrusión, embutido y troquelado.
+3. Desprendimiento de viruta por maquinado, convencional y CNC.
 
-1. Eléctricas y magnéticas.
-2. Térmicas.
-3. Químicas.
-4. Mecánicas.
+UNIDAD IV. Procesos industriales de plásticos térmicos, compuestos y termofraguantes, y materiales cerámicos.
 
-UNIDAD IV. Aplicaciones de los materiales.
+1. Generalidades.
+2. Tipos de plásticos.
+3. Materias primas.
+4. Compuestos termofraguantes (fenólicas, resinosas y furámicas).
+5. Celulosas, poliestirenos, polietilenos y propilenos.
+6. Materiales cerámicos.
 
-1. Industria básica y extractiva.
-2. Industria metal-mecánicas.
-3. Fabricación de componentes eléctricos y electrónicos.
-4. Industria de la construcción.
-5. Agroindustria.
+UNIDAD V. Procesos de manufactura especiales de empresas regionales.
+1. Maquinados con chorro abrasivo.
+2. Maquinados con chorro de agua.
+3. Procesos de ensamble (no permanentes, semipermanentes y permanentes).
+4. Procesos regionales.
 
 ## Criterios de Evaluación.
 
@@ -46,7 +52,7 @@ Criterio | Ponderación
 Reportes de lectura | 10%
 Exposición temática o de trabajos | 10%
 Participación en clase | 5%
-Ejercicios y prototipos | 10%
 Reportes escritos de observaciones e información recopilada | 5%
+Esquemas | 10%
 Exámenes | 60%
 _TOTAL_ | 100%
