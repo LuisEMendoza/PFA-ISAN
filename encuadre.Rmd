@@ -1,0 +1,52 @@
+---
+title: "Encuadre"
+---
+
+## Fines del aprendizaje o formación
+
+Identificar las características y propiedades de los materiales para su aplicación adecuada en los diferentes procesos industriales para la obtención de productos de calidad con responsabilidad social y protección del medio ambiente.
+
+## Contenido temático
+
+UNIDAD I. Clasificación de los materiales.
+
+1. Generalidades.
+2. Materiales puros.
+3. Aleaciones ferrosas y no ferrosas.
+4. Materiales orgánicos y no orgánicos.
+5. Materiales cerámicos.
+  
+UNIDAD II. Estructura de los materiales.
+
+1. Estructura cristalina y su consecuencia en las propiedades.
+2. Materiales puros.
+3. Aleaciones ferrosas y no ferrosas.
+4. Materiales orgánicos y no orgánicos.
+5. Materiales cerámicos.
+
+UNIDAD III. Propiedades de los materiales.
+
+1. Eléctricas y magnéticas.
+2. Térmicas.
+3. Químicas.
+4. Mecánicas.
+
+UNIDAD IV. Aplicaciones de los materiales.
+
+1. Industria básica y extractiva.
+2. Industria metal-mecánicas.
+3. Fabricación de componentes eléctricos y electrónicos.
+4. Industria de la construcción.
+5. Agroindustria.
+
+## Criterios de Evaluación.
+
+Criterio | Ponderación
+:---|---:
+Reportes de lectura | 10%
+Exposición temática o de trabajos | 10%
+Participación en clase | 5%
+Ejercicios y prototipos | 10%
+Reportes escritos de observaciones e información recopilada | 5%
+Exámenes | 60%
+_TOTAL_ | 100%
